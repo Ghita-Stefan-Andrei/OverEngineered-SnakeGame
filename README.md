@@ -1,5 +1,5 @@
 # OverEngineered-SnakeGame
-An attempt to recreate the snake game using OpenCV and C++
+The legendary game of Snake build in C++ and OpenCV 
 
-Just run the code and select the console then you will be able to use WASD to play
+For when you want to play snake and also feel productive
 <p>Only for Windows<p>
